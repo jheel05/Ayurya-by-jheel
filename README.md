@@ -16,7 +16,8 @@ Most women neglect or feel hesitant to visit Gynecologist and this reluctance re
 <p align="center">
 <img src="NIROGYA (1).png" width='350'>
 </p>
-The need of the hour is to adopt the easiest strategy of prevention. Prevention means an early diagnosis and a timely and effective treatment. We have developed a website [“AYURYA”](https://ks-bit.github.io/Ayurya/). The initiative of this website is to provide gynecological healthcare facilities and resolving fitness & mental health issues for every woman. Our main motto is to make every woman healthy whether physically or mentally. We focus on female health issues that are neglected most of the time.women are the future fundamental of every country. Our target audience consists of women of all ages.
+The need of the hour is to adopt the easiest strategy of prevention. Prevention means an early diagnosis and a timely and effective treatment. We have developed a website  “AYURYA”. The initiative of this website is to provide gynecological healthcare facilities and resolving fitness & mental health issues for every woman. Our main motto is to make every woman healthy whether physically or mentally. We focus on female health issues that are neglected most of the time.women are the future fundamental of every country. Our target audience consists of women of all ages.
+(https://ks-bit.github.io/Ayurya/)
 
 <br>
 

@@ -1,1 +1,0 @@
-# Nirogya_IC

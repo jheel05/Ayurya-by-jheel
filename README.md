@@ -1,6 +1,6 @@
 # Team Adyant
-* Kirti
-* Jheel
+* Kirti[here](https://www.linkedin.com/in/kirtisingh2203/)
+* Jheel[here](https://www.linkedin.com/in/jheel-soni/)
 
 ## Problem Statement
 Women experience unique health issues and conditions, like Polycystic Ovarian Disease(PCOD), Polycystic Ovarian Syndrome (PCOS), Breast Cancer, uterine fibroids, and Depression & Anxiety. 

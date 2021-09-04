@@ -5,10 +5,10 @@
 ## Problem Statement
 Women experience unique health issues and conditions, like Polycystic Ovarian Disease(PCOD), Polycystic Ovarian Syndrome (PCOS), Breast Cancer, uterine fibroids, and Depression & Anxiety. 
     “810 Women approximately, die everyday from preventable causes         
-             that remain undiagnosed" 
-    "311 000 Women died in 2018 from cervical cancer”
+             that remain undiagnosed", 
+    "311 000 Women died in 2018 from cervical cancer”,
     “No access to menstrual hygiene is the fifth biggest killer of women
-     in the world ”-India Today
+     in the world ”-India Today.
 Many times women’s health conditions go undiagnosed and most drug trials do not include female test subjects. Depression and anxiety exhibit more frequently among female patients. She also neglects her fitness. 
 Most women neglect or feel hesitant to visit Gynecologist and this reluctance results in hazardous results.
 
@@ -41,4 +41,4 @@ With the help of our website, we make women aware of their Hygiene importance. B
 </p>
 
 ## Market Plan
-Our project is a fresh initiative because of which we have a plus point to make a place in market. So we are planning to reach out to people at the local level first with the help of the Community we will be appointing volunteers because none of us can deny the fact that once you are reachable to localities you can expand the tree of our initiative because its roots are fixed now. So now the biggest question arises 'FUNDS' as we are giving free of cost appointments with Gynecologist, Fitness trainers and Psychiatrist so we will be organizing fundraising events in schools and colleges in collaboration with NGOs. And we'll be focusing on raising a small amount of funds from a large no. of people. At last, We need to understand "Only a human can help another human"
+Our project is a fresh initiative because of which we have a plus point to make a place in market. So we are planning to reach out to people at the local level first with the help of the Community we will be appointing volunteers because none of us can deny the fact that once you are reachable to localities you can expand the tree of our initiative because its roots are fixed now. So now the biggest question arises 'FUNDS' as we are giving free of cost appointments with Gynecologist, Fitness trainers and Psychiatrist so we will be organizing fundraising events in schools and colleges in collaboration with NGOs. And we'll be focusing on raising a small amount of funds from a large no. of people. At last, We need to understand "Only a human can help another human".

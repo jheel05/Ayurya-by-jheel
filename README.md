@@ -1,4 +1,4 @@
-# Team Adyant
+# Developed by-
 * [Jheel](https://www.linkedin.com/in/jheel-soni/)
 
 
@@ -33,9 +33,5 @@ As mentioned before women have more chances of anxiety and depression, we will b
 As for good fitness, a woman needs a proper diet and exercise so, she can easily find out her body type and can follow a suitable diet chart according to it. We came up with the idea of having one-to-one fitness training.
 With the help of our website, we make women aware of their Hygiene importance. By conducting different awareness campaigns, programs, and events in different localities. We also focus on community building ans collobration.
 
-<br>
-<p align="center">
-<img src="b.png" width=''>
-</p>
-<br>
+
 

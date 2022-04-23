@@ -1,6 +1,7 @@
 # Team Adyant
-* [Kirti](https://www.linkedin.com/in/kirtisingh2203/)
 * [Jheel](https://www.linkedin.com/in/jheel-soni/)
+
+
 
 ## Problem Statement
 Women experience unique health issues and conditions, like Polycystic Ovarian Disease(PCOD), Polycystic Ovarian Syndrome (PCOS), Breast Cancer, uterine fibroids, and Depression & Anxiety. 
@@ -37,9 +38,4 @@ With the help of our website, we make women aware of their Hygiene importance. B
 <img src="b.png" width=''>
 </p>
 <br>
-<p align="center">
-<img src="c (2).png" width='700'>
-</p>
 
-## Market Plan
-Our project is a fresh initiative because of which we have a plus point to make a place in market. So we are planning to reach out to people at the local level first with the help of the Community we will be appointing volunteers because none of us can deny the fact that once you are reachable to localities you can expand the tree of our initiative because its roots are fixed now. So now the biggest question arises 'FUNDS' as we are giving free of cost appointments with Gynecologist, Fitness trainers and Psychiatrist so we will be organizing fundraising events in schools and colleges in collaboration with NGOs. And we'll be focusing on raising a small amount of funds from a large no. of people. At last, We need to understand "Only a human can help another human".
